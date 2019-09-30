@@ -8,6 +8,6 @@
  */
 public class hiworld {
     public static void main(String[] args) {
-        System.out.println("hiworld ! ! ! 第一次修改");
+        System.out.println("hiworld ! ! ! 第二次修改");
     }
 }
